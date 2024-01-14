@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FECcY2UDpgJ30BJckzkjbXDIM0JF1yQUdswxiEp8Ju1uMJLgojIRfzsjT7IyGzaJMFw3jlF+b2w/vpKuJ2Si9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mathe\\develop\\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mathe\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

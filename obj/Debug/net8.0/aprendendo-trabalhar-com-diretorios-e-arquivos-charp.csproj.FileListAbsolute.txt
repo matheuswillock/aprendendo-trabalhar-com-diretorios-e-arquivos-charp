@@ -1,0 +1,17 @@
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\bin\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.exe
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\bin\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.deps.json
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\bin\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.runtimeconfig.json
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\bin\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.dll
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\bin\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.pdb
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.AssemblyInfoInputs.cache
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.AssemblyInfo.cs
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.csproj.CoreCompileInputs.cache
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.dll
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\refint\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.dll
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.pdb
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.genruntimeconfig.cache
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\ref\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.dll
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.csproj.AssemblyReference.cache
+C:\Users\mathe\develop\aprendendo-trabalhar-com-diretorios-e-arquivos-charp\obj\Debug\net8.0\aprendendo-trabalhar-com-diretorios-e-arquivos-charp.csproj.CopyComplete
